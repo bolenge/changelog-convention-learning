@@ -8,5 +8,8 @@
     {"type": "refactor", "hidden": true},
     {"type": "perf", "hidden": true},
     {"type": "test", "hidden": true}
-  ]
+  ],
+  "commitUrlFormat": "https://github.com/bolenge/changelog-convention-learning/commits/{{hash}}",
+  "compareUrlFormat": "https://github.com/bolenge/changelog-convention-learning/compare/{{previousTag}}...{{currentTag}}",
+  "issueUrlFormat": "https://github.com/bolenge/changelog-convention-learning/issues/{{refs}}"
 }
