@@ -1,0 +1,17 @@
+{
+  "name": "changelog-convention-test",
+  "version": "0.0.1",
+  "description": "Test using changelog-convention",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "changelog"
+  ],
+  "author": "Don de Dieu Bolenge",
+  "license": "MIT",
+  "devDependencies": {
+    "standard-version": "^9.5.0"
+  }
+}
